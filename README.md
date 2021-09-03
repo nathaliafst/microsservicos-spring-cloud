@@ -15,7 +15,7 @@ Os servidores do docker que estão no arquivo docker-compose.yml .
 
 O projeto está atualizado para funcionar com as tecnologias mais atuais. 09/2020.
 
-Caso queira dar uma olhada no projeto original: https://github.com/oswaldoneto/dio-experts
+Projeto original do curso: https://github.com/oswaldoneto/dio-experts
 
 
 
